@@ -4,7 +4,9 @@
 
 ## Características:
 :heavy_check_mark:Descarga rápida y automatizada: Este programa permite ahorrar tiempo al descargar automáticamente el material de tus cursos actuales sin tener que hacerlo manualmente.
+
 :heavy_check_mark:Interfaz de usuario sencilla: La interfaz intuitiva hace que el proceso de descarga sea fácil y accesible para todos los estudiantes.
+
 :heavy_check_mark:Seguridad y Privacidad: El programa es seguro ya que no almacena ni guarda ninguna información. Su única función es la descarga automatizada del material de los cursos, garantizando así la confidencialidad de tus datos.
 
 ## Requisitos
