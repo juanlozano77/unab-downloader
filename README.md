@@ -9,9 +9,9 @@
 
 :heavy_check_mark:Seguridad y Privacidad: El programa es seguro ya que no almacena ni guarda ninguna información. Su única función es la descarga automatizada del material de los cursos, garantizando así la confidencialidad de tus datos.
 
-## Requisitos
+## :bookmark_tabs:Requisitos
 
-Antes de utilizar el programa "unab-downloader", asegúrate de tener instaladas las siguientes bibliotecas de Python:
+Antes de utilizar el programa, es necesario tener instaladas las siguientes bibliotecas de Python:
 requests: Esta biblioteca se utiliza para realizar solicitudes HTTP y permite la descarga de contenido desde el campus virtual de la UNAB.
 beautifulsoup4: Esta biblioteca te ayudará a extraer la información relevante del contenido descargado, como enlaces y recursos de los cursos.
 
