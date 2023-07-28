@@ -27,7 +27,7 @@ Asegúrate de tener Python 3 instalado y configurado en tu sistema antes de ejec
 
 ## :grey_question: Cómo utilizar el programa:
 
-Ejecuta el programa y ingresa las credenciales de acceso y selecciona si es del campus o de los talleres de extensión.
+Ejecuta el programa y ingresa las credenciales de acceso y selecciona si la descarga es del campus o de los talleres de extensión.
 Selecciona la carpeta de descarga de los cursos
 Selecciona los cursos de los cuales deseas descargar el contenido.
 ¡Listo! El programa se encargará de descargar automáticamente los materiales de tus cursos seleccionados en la ubicación especificada.
