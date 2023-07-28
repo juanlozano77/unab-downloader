@@ -7,9 +7,25 @@ Descarga rápida y automatizada: Este programa permite ahorrar tiempo al descarg
 Interfaz de usuario sencilla: La interfaz intuitiva hace que el proceso de descarga sea fácil y accesible para todos los estudiantes.
 Seguridad y Privacidad: El programa es seguro ya que no almacena ni guarda ninguna información. Su única función es la descarga automatizada del material de los cursos, garantizando así la confidencialidad de tus datos.
 
+## Requisitos
+
+Antes de utilizar el programa "unab-downloader", asegúrate de tener instaladas las siguientes bibliotecas de Python:
+
+    requests: Esta biblioteca se utiliza para realizar solicitudes HTTP y permite la descarga de contenido desde el campus virtual de la UNAB.
+
+    beautifulsoup4: Esta biblioteca te ayudará a extraer la información relevante del contenido descargado, como enlaces y recursos de los cursos.
+
+Instalación
+
+Si no tienes las bibliotecas mencionadas anteriormente, puedes instalarlas fácilmente utilizando el administrador de paquetes "pip". Abre una terminal o línea de comandos y ejecuta los siguientes comandos:
+
+pip install requests
+pip install beautifulsoup4
+
+Asegúrate de tener Python 3 instalado y configurado en tu sistema antes de ejecutar los comandos anteriores.
+
 ## Cómo utilizar el programa:
-Clona este repositorio en tu equipo local.
-Asegúrate de tener Python 3 instalado en tu sistema.
+
 Ejecuta el programa y ingresa las credenciales de acceso y selecciona si es del campus o de los talleres de extensión.
 Selecciona la carpeta de descarga de los cursos
 Selecciona los cursos de los cuales deseas descargar el contenido.
