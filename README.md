@@ -1,6 +1,6 @@
 # unab-downloader
 ## Descargador Automático de Contenido de Cursos UNAB
-¡Hola!:wave: Soy un estudiante de ciencias de datos de la UNAB:technologist:, cada cuatrimestre el campus se vacia y descagar el material es una tarea tediosa , debido a esto, he decidido desarrollar un programa en Python para facilitar la descarga automática del contenido de los cursos.
+¡Hola!:wave: Soy un estudiante de ciencias de datos de la UNAB:technologist:, cada cuatrimestre el campus se vacia y descagar el material es una tarea tediosa , debido a esto, decidí desarrollar un programa en Python para facilitar la descarga automática del contenido de los cursos.
 
 ## Características:
 :heavy_check_mark:Descarga rápida y automatizada: Este programa permite ahorrar tiempo al descargar automáticamente el material de tus cursos actuales sin tener que hacerlo manualmente.
