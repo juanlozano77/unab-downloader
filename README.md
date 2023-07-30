@@ -21,6 +21,7 @@ Si no tienes las bibliotecas mencionadas anteriormente, puedes instalarlas fáci
 
     pip install requests
     pip install beautifulsoup4
+    pip install PyQt5
 
 
 Asegúrate de tener Python 3 instalado y configurado en tu sistema antes de ejecutar los comandos anteriores.
