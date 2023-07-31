@@ -27,7 +27,7 @@ Si no tienes las bibliotecas mencionadas anteriormente, puedes instalarlas fáci
 ## Adaptabilidad :gear:
 Este scraper ha sido diseñado con una estructura modular y flexible, lo que significa que se puede adaptar fácilmente a otros campus virtuales con una estructura similar a la de la UNAB. Si deseas utilizarlo para descargar contenido de cursos de otros Moodle, simplemente ajusta las URL y patrones de búsqueda relevantes en el código fuente para que se ajusten a la estructura del Moodle específico.
 
-Asegúrate de tener Python 3 instalado y configurado en tu sistema antes de ejecutar los comandos anteriores.
+
 
 ## :grey_question: Cómo utilizar el programa:
 
