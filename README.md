@@ -1,5 +1,5 @@
 # :floppy_disk: Moodle Downloader (Unab)
-##  Descargador Automático de Contenido de Cursos UNAB:mortar_board:
+##  Descargador Automático de Contenido de Cursos UNAB :mortar_board:
 ¡Hola!:wave: Soy un estudiante de ciencias de datos de la UNAB:technologist:, cada cuatrimestre el campus se vacia y descagar el material es una tarea tediosa , debido a esto, decidí desarrollar un programa en Python para facilitar la descarga automática del contenido de los cursos.
 
 ## :rocket: Características: 
@@ -9,7 +9,7 @@
 
 :heavy_check_mark:Seguridad y Privacidad: El programa es seguro ya que no almacena ni guarda ninguna información. Su única función es la descarga automatizada del material de los cursos, garantizando así la confidencialidad de tus datos.
 
-## :bookmark_tabs:Requisitos
+## :bookmark_tabs: Requisitos
 
 Antes de utilizar el programa, es necesario tener instaladas las siguientes bibliotecas de Python:
 requests: Esta biblioteca se utiliza para realizar solicitudes HTTP y permite la descarga de contenido desde el campus virtual de la UNAB.
@@ -24,7 +24,7 @@ Si no tienes las bibliotecas mencionadas anteriormente, puedes instalarlas fáci
     pip install beautifulsoup4
     pip install PyQt5
 
-## :gear:Adaptabilidad 
+## :gear: Adaptabilidad 
 Este scraper ha sido diseñado con una estructura modular y flexible, lo que significa que se puede adaptar fácilmente a otros campus virtuales con una estructura similar a la de la UNAB. Si deseas utilizarlo para descargar contenido de cursos de otros Moodle, simplemente ajusta las URL y patrones de búsqueda relevantes en el código fuente para que se ajusten a la estructura del Moodle específico.
 
 
