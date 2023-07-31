@@ -24,7 +24,7 @@ Si no tienes las bibliotecas mencionadas anteriormente, puedes instalarlas fáci
     pip install beautifulsoup4
     pip install PyQt5
 
-## Adaptabilidad :gear:
+## :gear:Adaptabilidad 
 Este scraper ha sido diseñado con una estructura modular y flexible, lo que significa que se puede adaptar fácilmente a otros campus virtuales con una estructura similar a la de la UNAB. Si deseas utilizarlo para descargar contenido de cursos de otros Moodle, simplemente ajusta las URL y patrones de búsqueda relevantes en el código fuente para que se ajusten a la estructura del Moodle específico.
 
 
