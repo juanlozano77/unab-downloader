@@ -1,8 +1,8 @@
-# unab-downloader
-## Descargador Automático de Contenido de Cursos UNAB
+# unab-downloader :floppy_disk:
+## :mortar_board: Descargador Automático de Contenido de Cursos UNAB
 ¡Hola!:wave: Soy un estudiante de ciencias de datos de la UNAB:technologist:, cada cuatrimestre el campus se vacia y descagar el material es una tarea tediosa , debido a esto, decidí desarrollar un programa en Python para facilitar la descarga automática del contenido de los cursos.
 
-## Características:
+## Características: :rocket:
 :heavy_check_mark:Descarga rápida y automatizada: Este programa permite ahorrar tiempo al descargar automáticamente el material de tus cursos actuales sin tener que hacerlo manualmente.
 
 :heavy_check_mark:Interfaz de usuario sencilla: La interfaz intuitiva hace que el proceso de descarga sea fácil y accesible para todos los estudiantes.
@@ -16,7 +16,7 @@ requests: Esta biblioteca se utiliza para realizar solicitudes HTTP y permite la
 beautifulsoup4: Este ayudará a extraer la información relevante del contenido descargado, como enlaces y recursos de los cursos.
 pyqt5: Esta biblioteca sea usa para la interfaz gráfica y hace que el programa sea sencillo de utilizar
 
-Instalación
+:computer: Instalación
 
 Si no tienes las bibliotecas mencionadas anteriormente, puedes instalarlas fácilmente utilizando el administrador de paquetes "pip". Abre una terminal o línea de comandos y ejecuta los siguientes comandos:
 
@@ -24,6 +24,8 @@ Si no tienes las bibliotecas mencionadas anteriormente, puedes instalarlas fáci
     pip install beautifulsoup4
     pip install PyQt5
 
+## Adaptabilidad :gear:
+Este scraper ha sido diseñado con una estructura modular y flexible, lo que significa que se puede adaptar fácilmente a otros campus virtuales con una estructura similar a la de la UNAB. Si deseas utilizarlo para descargar contenido de cursos de otros Moodle, simplemente ajusta las URL y patrones de búsqueda relevantes en el código fuente para que se ajusten a la estructura del Moodle específico.
 
 Asegúrate de tener Python 3 instalado y configurado en tu sistema antes de ejecutar los comandos anteriores.
 
