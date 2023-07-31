@@ -1,5 +1,5 @@
-# unab-downloader :floppy_disk:
-## :mortar_board: Descargador Automático de Contenido de Cursos UNAB
+# :floppy_disk: Moodle Downloader (Unab)
+##  Descargador Automático de Contenido de Cursos UNAB:mortar_board:
 ¡Hola!:wave: Soy un estudiante de ciencias de datos de la UNAB:technologist:, cada cuatrimestre el campus se vacia y descagar el material es una tarea tediosa , debido a esto, decidí desarrollar un programa en Python para facilitar la descarga automática del contenido de los cursos.
 
 ## Características: :rocket:
