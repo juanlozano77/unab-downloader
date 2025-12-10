@@ -27,7 +27,7 @@ Si no tienes las bibliotecas mencionadas anteriormente, puedes instalarlas fáci
 1. Ejecutar el programa:
 
 ```bash
-python unab_downloader.py
+python downloader.py
 ```
 
 
