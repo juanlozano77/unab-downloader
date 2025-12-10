@@ -20,9 +20,17 @@ pyqt5: Esta biblioteca sea usa para la interfaz gráfica y hace que el programa 
 
 Si no tienes las bibliotecas mencionadas anteriormente, puedes instalarlas fácilmente utilizando el administrador de paquetes "pip". Abre una terminal o línea de comandos y ejecuta los siguientes comandos:
 
-    pip install requests
-    pip install beautifulsoup4
-    pip install PyQt5
+    pip install -r requirements.txt
+
+## Como usarlo
+
+1. Ejecutar el programa:
+
+```bash
+python unab_downloader.py
+```
+
+
 
 ## :gear: Adaptabilidad 
 Este scraper ha sido diseñado con una estructura modular y flexible, lo que significa que se puede adaptar fácilmente a otros campus virtuales con una estructura similar a la de la UNAB. Si deseas utilizarlo para descargar contenido de cursos de otros Moodle, simplemente ajusta las URL y patrones de búsqueda relevantes en el código fuente para que se ajusten a la estructura del Moodle específico.
